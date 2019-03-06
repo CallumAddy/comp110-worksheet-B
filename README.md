@@ -1,6 +1,6 @@
 # comp110-worksheet-B
 Base repository for COMP110 worksheet B
-Flowchart : https://i.gyazo.com/a149c45a8ea463011d01884d05f0af50.png
+Flowchart : https://i.gyazo.com/b68962d571eda753bd6c580d63054c78.png
 
 points = 0
 secretWord = "Yeet"
